@@ -1,4 +1,7 @@
 🚀 Hirely - Job Portal Website
+
+
+
 Hirely is a MERN stack job portal where recruiters can post job listings and manage company profiles, while job seekers can create accounts, apply for jobs, and track application statuses. The platform also includes job filtering, profile management, and Cloudinary integration for resume and image uploads.
 
 🌟 Features
